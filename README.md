@@ -8,8 +8,8 @@ Already finished __SKEMPI_v1 vs. SKEMPI_v1__; __SKEMPI_v2 vs SKEMPI_v2__, __SKEM
 
 * MDM2-p53 blast results are updated
 
-```html
-* <span style="color:red">The algorithm of calculating the __"Perc_Identity"__ is changed.</span>
+```diff
+! The algorithm of calculating the "Perc_Identity" is changed
 ```
 
 ## Files Location
