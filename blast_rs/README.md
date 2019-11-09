@@ -15,7 +15,7 @@
 | "score" | blast score, the higer the score, the better the match is |
 | "E_Value" |  the Expected Value of hits by chance, the lower E Value is, the better the hit |
 | "Query Cover" | length of aligned pair over over all length of the __query sequence__. This multiplied by "Perc_Indentity" should gives similarity of the subject w.r.t query sequence. However, this derived field is not give here, as it is not an offical result obtianed from blast. |
-| "Perc_Identity" | ~~percentages of identical matches in the Aligned Sequence~~__ number of identical matches over number of total aligned pairs  |
+| "Perc_Identity" | ~~percentages of identical matches in the Aligned Sequence.~~  Number of identical matches over number of total aligned pairs  |
 | "Num_of_Identity" | number of identical matches in the aligned portion |
 | "Aligned_length" | length of the aligned portion |
 | "Align_Seq_Length" | length of the subject/database sequence that result in the hit |
