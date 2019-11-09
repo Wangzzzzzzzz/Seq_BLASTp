@@ -1,0 +1,20 @@
+{
+    "1A22_B": {
+        "1YCR_B": {
+            "1": {
+                "score": 31.0,
+                "E_Value": 0.0297428,
+                "Perc_Identity": 53.84615384615385,
+                "Num_of_Identity": 7,
+                "Aligned_length": 11,
+                "Align_Seq_Length": 13,
+                "Query_Seq_Length": 192,
+                "query_start_pos": 12,
+                "aligned_query_seq": "ETFSCHWTLGP",
+                "aligned_match_pts": "ETFS  W L P",
+                "aligned_sbjct_seq": "ETFSDLWKLLP",
+                "sbjct_start_pos": 1
+            }
+        }
+    }
+}

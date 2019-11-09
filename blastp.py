@@ -5,6 +5,8 @@ from Bio.Seq import Seq
 from Bio.SeqRecord import SeqRecord
 from Bio.Alphabet import IUPAC
 from Bio import SeqIO
+from Bio.PDB import PDBList, PDBParser
+from Bio.PDB.Polypeptide import PPBuilder
 import os
 import numpy as np 
 import pandas as pd
@@ -115,6 +117,55 @@ def output_json(blast_res, output_name):
     else:
         return 0
 
+# obtian seq_without seq file
+def obtian_seq_wo_seq_file(score_file):
+    score_file = './dataFile/' + score_file
+    sf = pd.read_csv(score_file,sep='\t')
+    chains_involved = sf.iloc[:,0]
+    pdb = dict()
+    pdb_track = set()
+    for chain in chains_involved:
+        chain_name = chain[0:6]
+        pdb_name = chain[0:4]
+        # if we encounter a old pdb
+        if pdb_name in pdb_track:
+            pdb[pdb_name].add(chain_name)
+        # else, we have a new pdb
+        else:
+            # update the track file
+            pdb_track.add(pdb_name)
+            pdb[pdb_name] = {chain_name}
+
+    # create the link to the PDB database and retrive all the file 
+    # related to the files, store them locally under ./dataFile/PDB_dl/
+    PDB_DIR = './dataFile/PDB_dl'
+    if not os.path.exists(PDB_DIR):
+        os.mkdir(PDB_DIR)
+    # create the download handle
+    pdb_dl_handle = PDBList()
+    # download all of the pdb files
+    for item in pdb.keys():
+        if not os.path.exists(PDB_DIR+'/pdb'+item.lower()+'.ent'):
+            pdb_dl_handle.retrieve_pdb_file(pdb_code=item, file_format='pdb', overwrite=False,pdir=PDB_DIR)
+    
+    # for each pdb, we will construct the sequence
+    seq_dict = dict()
+    parser = PDBParser()
+    seq_builder = PPBuilder()
+    # key is the pdb_id, value is the chain in a 
+    for pdb_id, chain_names in pdb.items():
+        pdb_file = PDB_DIR+'/pdb'+pdb_id.lower()+'.ent'
+        model = parser.get_structure(pdb_id, pdb_file)[0]
+        for chain in chain_names:
+            # extract the last letter, which is the chain name
+            chain_id = chain[-1]
+            protein_chain = model[chain_id]
+            sequence = "".join([str(pp.get_sequence()) for pp in seq_builder.build_peptides(protein_chain)])
+            sequence = sequence.replace('\n','').replace(' ','') # clean the bad chars
+            seq_dict[chain] = sequence
+
+    return seq_dict
+
 
 def main():
     if not os.path.exists('./fasta_db'):
@@ -140,6 +191,11 @@ def main():
     write_to_fasta(NM, './fasta_db/NM.fasta')
     blast_skempi_v1_NM = run_blast(query='./fasta_db/skempi_v1.fasta',subject='./fasta_db/NM.fasta')
 
+    # run blast on skepmi_v1 vs MDM2
+    MDM2 = obtian_seq_wo_seq_file('features_MDM2-p53_test_dataset_top1.tsv')
+    write_to_fasta(MDM2, './fasta_db/MDM2.fasta')
+    blast_skempi_v1_MDM2 = run_blast(query='./fasta_db/skempi_v1.fasta', subject='./fasta_db/MDM2.fasta')
+
 
     # output the json file for all of the above results
     if not output_json(blast_skempi_v1_skempi_v1, 'skempi_v1_skempi_v1.json'):
@@ -150,6 +206,8 @@ def main():
         print('No alignments for skempi_v2 & skempi_v2')
     if not output_json(blast_skempi_v1_NM, 'skempi_v1_NM.json'):
         print('No alignments for skempi_v1 & NM')
+    if not output_json(blast_skempi_v1_MDM2, 'skempi_v1_MDM2.json'):
+        print('No alignments for skempi_v1 & MDM2')
 
 if __name__ == "__main__":
     main()
