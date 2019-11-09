@@ -6,10 +6,10 @@ Already finished __SKEMPI_v1 vs. SKEMPI_v1__; __SKEMPI_v2 vs SKEMPI_v2__, __SKEM
 
 ### v1.1 (2019 Nov 9)
 
-* MDM2-p53 blast results are updated
-
 ```diff
-! The algorithm of calculating the "Perc_Identity" is changed
++ The blast result related to MDM2-p53 dataset is uploaded
++ Add additional field "Query Cover" to the descriptor of the blast result
+! The algorithm of calculating the "Perc_Identity" is changed, refer to README in the /blast_rs file to see the exact change
 ```
 
 ## Files Location

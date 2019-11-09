@@ -4,7 +4,8 @@
             "1": {
                 "score": 31.0,
                 "E_Value": 0.0297428,
-                "Perc_Identity": 53.84615384615385,
+                "Query Cover": 5.729166666666666,
+                "Perc_Identity": 63.63636363636363,
                 "Num_of_Identity": 7,
                 "Aligned_length": 11,
                 "Align_Seq_Length": 13,
