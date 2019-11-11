@@ -6,7 +6,7 @@ from Bio.SeqRecord import SeqRecord
 from Bio.Alphabet import IUPAC
 from Bio import SeqIO
 from Bio.PDB import PDBList, PDBParser
-from Bio.PDB.Polypeptide import PPBuilder
+from Bio.PDB.Polypeptide import PPBuilder, three_to_one
 import os
 import numpy as np 
 import pandas as pd
@@ -118,6 +118,68 @@ def output_json(blast_res, output_name):
     else:
         return 0
 
+
+def generate_seq_file(score_file, save_file):
+    score_file = './dataFile/' + score_file
+    sf = pd.read_csv(score_file, sep='\t')
+    mut_chains = sf.iloc[:,0]
+
+    mut_dict = dict()
+    mut_track = set()
+    pdb_track = set()
+    for chain in mut_chains:
+        info = chain.split('_')
+        pdb_id = info[0]
+        chain_id = info[1]
+        wt_aa = info[2][0:3]
+        mu_aa = info[2][-3:]
+        mu_pos = int(''.join(filter(lambda x: x.isdigit(), info[2])))
+        if not chain in mut_track:
+            mut_track.add(chain)
+            if pdb_id in pdb_track:
+                mut_dict[pdb_id].append({'chain_id':chain_id,
+                                         'wt_aa': wt_aa,
+                                         'mu_aa': mu_aa,
+                                         'mu_pos': mu_pos,
+                                         'name': chain})
+            else:
+                mut_dict[pdb_id] = [{'chain_id': chain_id,
+                                     'wt_aa': wt_aa,
+                                     'mu_aa': mu_aa,
+                                     'mu_pos': mu_pos,
+                                     'name': chain}]
+                pdb_track.add(pdb_id)
+    del mut_track
+    del pdb_track
+                
+    parser = PDBParser()
+    seq_builder = PPBuilder()
+    pdb_dl_handle = PDBList()
+    PDB_DIR = './dataFile/PDB_dl'
+    # check if pdb file exists
+    mut_collect = dict()
+    for pdb_id in mut_dict.keys():
+        if not os.path.exists(PDB_DIR+'/pdb'+pdb_id.lower()+'.ent'):
+            pdb_dl_handle.retrieve_pdb_file(pdb_code=pdb_id, file_format='pdb', overwrite=False, pdir=PDB_DIR)
+        pdb_file = PDB_DIR+'/pdb'+pdb_id.lower()+'.ent'
+        model = parser.get_structure(pdb_id, pdb_file)[0]
+
+        for mutation in mut_dict[pdb_id]:
+            protein_chain = model[mutation['chain_id']]
+            sequence = "".join([str(pp.get_sequence())
+                                for pp in seq_builder.build_peptides(protein_chain)])
+            sequence = sequence.replace('\n', '').replace(' ', '')
+            assert sequence[mutation['mu_pos']-1] == three_to_one(mutation['wt_aa']), 'Wt amino acid failed to match'
+            mut_Seq_list = list(sequence)
+            mut_Seq_list[mutation['mu_pos']-1] = three_to_one(mutation['mu_aa'])
+            mut_Seq = ''.join(mut_Seq_list)
+            mut_collect[mutation['name']] = mut_Seq
+    
+    with open(save_file, 'w') as output_hl:
+        for k, v in mut_collect.items():
+            output_hl.write(k+'\t'+v+'\n')
+
+        
 # obtian seq_without seq file
 def obtian_seq_wo_seq_file(score_file):
     score_file = './dataFile/' + score_file
@@ -196,6 +258,7 @@ def main():
     MDM2 = obtian_seq_wo_seq_file('features_MDM2-p53_test_dataset_top1.tsv')
     write_to_fasta(MDM2, './fasta_db/MDM2.fasta')
     blast_skempi_v1_MDM2 = run_blast(query='./fasta_db/skempi_v1.fasta', subject='./fasta_db/MDM2.fasta')
+    generate_seq_file('features_MDM2-p53_test_dataset_top1.tsv', './dataFile/MDM2_test.seq.txt')
 
 
     # output the json file for all of the above results
