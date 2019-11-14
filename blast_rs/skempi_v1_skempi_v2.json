@@ -4,6 +4,7 @@
             "1": {
                 "score": 952.0,
                 "E_Value": 1.82213e-136,
+                "Bit_Score": 371.318,
                 "Query Cover": 100.0,
                 "Perc_Identity": 100.0,
                 "Num_of_Identity": 180,
@@ -21,6 +22,7 @@
             "1": {
                 "score": 916.0,
                 "E_Value": 6.31158e-131,
+                "Bit_Score": 357.451,
                 "Query Cover": 103.33333333333334,
                 "Perc_Identity": 96.23655913978494,
                 "Num_of_Identity": 179,
@@ -38,6 +40,7 @@
             "1": {
                 "score": 160.0,
                 "E_Value": 1.42235e-16,
+                "Bit_Score": 66.2402,
                 "Query Cover": 106.66666666666667,
                 "Perc_Identity": 25.520833333333332,
                 "Num_of_Identity": 49,
@@ -55,6 +58,7 @@
             "1": {
                 "score": 160.0,
                 "E_Value": 1.42235e-16,
+                "Bit_Score": 66.2402,
                 "Query Cover": 106.66666666666667,
                 "Perc_Identity": 25.520833333333332,
                 "Num_of_Identity": 49,
@@ -72,6 +76,7 @@
             "1": {
                 "score": 159.0,
                 "E_Value": 1.8819e-16,
+                "Bit_Score": 65.855,
                 "Query Cover": 106.66666666666667,
                 "Perc_Identity": 25.520833333333332,
                 "Num_of_Identity": 49,
@@ -89,6 +94,7 @@
             "1": {
                 "score": 150.0,
                 "E_Value": 4.00654e-15,
+                "Bit_Score": 62.3882,
                 "Query Cover": 106.66666666666667,
                 "Perc_Identity": 25.0,
                 "Num_of_Identity": 48,
@@ -106,6 +112,7 @@
             "1": {
                 "score": 150.0,
                 "E_Value": 4.00654e-15,
+                "Bit_Score": 62.3882,
                 "Query Cover": 106.66666666666667,
                 "Perc_Identity": 25.0,
                 "Num_of_Identity": 48,
@@ -125,6 +132,7 @@
             "1": {
                 "score": 1032.0,
                 "E_Value": 2.81174e-148,
+                "Bit_Score": 402.134,
                 "Query Cover": 100.0,
                 "Perc_Identity": 100.0,
                 "Num_of_Identity": 192,
@@ -142,6 +150,7 @@
             "1": {
                 "score": 259.0,
                 "E_Value": 7.95962e-31,
+                "Bit_Score": 104.375,
                 "Query Cover": 100.0,
                 "Perc_Identity": 31.770833333333332,
                 "Num_of_Identity": 61,
@@ -159,6 +168,7 @@
             "1": {
                 "score": 248.0,
                 "E_Value": 4.25194e-29,
+                "Bit_Score": 100.138,
                 "Query Cover": 103.125,
                 "Perc_Identity": 30.808080808080806,
                 "Num_of_Identity": 61,
@@ -176,6 +186,7 @@
             "1": {
                 "score": 246.0,
                 "E_Value": 7.56176e-29,
+                "Bit_Score": 99.3673,
                 "Query Cover": 103.125,
                 "Perc_Identity": 30.808080808080806,
                 "Num_of_Identity": 61,
@@ -193,6 +204,7 @@
             "1": {
                 "score": 246.0,
                 "E_Value": 7.56176e-29,
+                "Bit_Score": 99.3673,
                 "Query Cover": 103.125,
                 "Perc_Identity": 30.808080808080806,
                 "Num_of_Identity": 61,
@@ -210,6 +222,7 @@
             "1": {
                 "score": 246.0,
                 "E_Value": 7.56176e-29,
+                "Bit_Score": 99.3673,
                 "Query Cover": 103.125,
                 "Perc_Identity": 30.808080808080806,
                 "Num_of_Identity": 61,
@@ -227,6 +240,7 @@
             "1": {
                 "score": 246.0,
                 "E_Value": 7.56176e-29,
+                "Bit_Score": 99.3673,
                 "Query Cover": 103.125,
                 "Perc_Identity": 30.808080808080806,
                 "Num_of_Identity": 61,
@@ -246,6 +260,7 @@
             "1": {
                 "score": 156.0,
                 "E_Value": 5.12212e-15,
+                "Bit_Score": 64.6994,
                 "Query Cover": 76.34854771784232,
                 "Perc_Identity": 26.6304347826087,
                 "Num_of_Identity": 49,
@@ -265,6 +280,7 @@
             "1": {
                 "score": 780.0,
                 "E_Value": 2.13951e-107,
+                "Bit_Score": 305.064,
                 "Query Cover": 100.0,
                 "Perc_Identity": 60.94890510948905,
                 "Num_of_Identity": 167,
@@ -284,6 +300,7 @@
             "1": {
                 "score": 48.0,
                 "E_Value": 0.0193955,
+                "Bit_Score": 23.0978,
                 "Query Cover": 58.82352941176471,
                 "Perc_Identity": 30.0,
                 "Num_of_Identity": 9,
@@ -303,6 +320,7 @@
             "1": {
                 "score": 46.0,
                 "E_Value": 0.0437682,
+                "Bit_Score": 22.3274,
                 "Query Cover": 54.90196078431373,
                 "Perc_Identity": 32.142857142857146,
                 "Num_of_Identity": 9,
@@ -322,6 +340,7 @@
             "1": {
                 "score": 46.0,
                 "E_Value": 0.0391398,
+                "Bit_Score": 22.3274,
                 "Query Cover": 54.90196078431373,
                 "Perc_Identity": 32.142857142857146,
                 "Num_of_Identity": 9,
@@ -341,6 +360,7 @@
             "1": {
                 "score": 47.0,
                 "E_Value": 0.0242666,
+                "Bit_Score": 22.7126,
                 "Query Cover": 58.82352941176471,
                 "Perc_Identity": 30.0,
                 "Num_of_Identity": 9,
@@ -360,6 +380,7 @@
             "1": {
                 "score": 698.0,
                 "E_Value": 9.88946e-98,
+                "Bit_Score": 273.478,
                 "Query Cover": 98.87640449438202,
                 "Perc_Identity": 72.1590909090909,
                 "Num_of_Identity": 127,
@@ -377,6 +398,7 @@
             "1": {
                 "score": 361.0,
                 "E_Value": 1.32807e-46,
+                "Bit_Score": 143.665,
                 "Query Cover": 98.31460674157303,
                 "Perc_Identity": 41.14285714285714,
                 "Num_of_Identity": 72,
@@ -394,6 +416,7 @@
             "1": {
                 "score": 341.0,
                 "E_Value": 1.04257e-43,
+                "Bit_Score": 135.961,
                 "Query Cover": 98.31460674157303,
                 "Perc_Identity": 41.14285714285714,
                 "Num_of_Identity": 72,
@@ -411,6 +434,7 @@
             "1": {
                 "score": 201.0,
                 "E_Value": 1.10001e-22,
+                "Bit_Score": 82.0333,
                 "Query Cover": 97.19101123595506,
                 "Perc_Identity": 28.32369942196532,
                 "Num_of_Identity": 49,
@@ -428,6 +452,7 @@
             "1": {
                 "score": 195.0,
                 "E_Value": 6.42272e-22,
+                "Bit_Score": 79.7221,
                 "Query Cover": 97.19101123595506,
                 "Perc_Identity": 27.74566473988439,
                 "Num_of_Identity": 48,
@@ -445,6 +470,7 @@
             "1": {
                 "score": 175.0,
                 "E_Value": 6.77273e-19,
+                "Bit_Score": 72.0182,
                 "Query Cover": 93.25842696629213,
                 "Perc_Identity": 28.915662650602407,
                 "Num_of_Identity": 48,
@@ -462,6 +488,7 @@
             "1": {
                 "score": 175.0,
                 "E_Value": 7.06336e-19,
+                "Bit_Score": 72.0182,
                 "Query Cover": 93.25842696629213,
                 "Perc_Identity": 28.915662650602407,
                 "Num_of_Identity": 48,
@@ -479,6 +506,7 @@
             "1": {
                 "score": 170.0,
                 "E_Value": 3.53076e-18,
+                "Bit_Score": 70.0922,
                 "Query Cover": 93.25842696629213,
                 "Perc_Identity": 28.313253012048197,
                 "Num_of_Identity": 47,
@@ -496,6 +524,7 @@
             "1": {
                 "score": 165.0,
                 "E_Value": 1.99616e-17,
+                "Bit_Score": 68.1662,
                 "Query Cover": 93.25842696629213,
                 "Perc_Identity": 28.313253012048197,
                 "Num_of_Identity": 47,
@@ -513,6 +542,7 @@
             "1": {
                 "score": 165.0,
                 "E_Value": 2.23415e-17,
+                "Bit_Score": 68.1662,
                 "Query Cover": 93.25842696629213,
                 "Perc_Identity": 28.313253012048197,
                 "Num_of_Identity": 47,
@@ -530,6 +560,7 @@
             "1": {
                 "score": 156.0,
                 "E_Value": 3.78029e-16,
+                "Bit_Score": 64.6994,
                 "Query Cover": 93.25842696629213,
                 "Perc_Identity": 28.313253012048197,
                 "Num_of_Identity": 47,
@@ -549,6 +580,7 @@
             "1": {
                 "score": 77.0,
                 "E_Value": 2.29157e-06,
+                "Bit_Score": 34.2686,
                 "Query Cover": 89.47368421052632,
                 "Perc_Identity": 35.294117647058826,
                 "Num_of_Identity": 18,
@@ -568,6 +600,7 @@
             "1": {
                 "score": 288.0,
                 "E_Value": 2.59748e-38,
+                "Bit_Score": 115.546,
                 "Query Cover": 98.79518072289156,
                 "Perc_Identity": 64.63414634146342,
                 "Num_of_Identity": 53,
@@ -587,6 +620,7 @@
             "1": {
                 "score": 564.0,
                 "E_Value": 4.30882e-79,
+                "Bit_Score": 221.861,
                 "Query Cover": 90.07633587786259,
                 "Perc_Identity": 94.91525423728814,
                 "Num_of_Identity": 112,
@@ -606,6 +640,7 @@
             "1": {
                 "score": 220.0,
                 "E_Value": 4.48287e-29,
+                "Bit_Score": 89.3521,
                 "Query Cover": 100.0,
                 "Perc_Identity": 100.0,
                 "Num_of_Identity": 44,
@@ -625,6 +660,7 @@
             "1": {
                 "score": 1106.0,
                 "E_Value": 4.71716e-159,
+                "Bit_Score": 430.639,
                 "Query Cover": 100.0,
                 "Perc_Identity": 100.0,
                 "Num_of_Identity": 207,
@@ -642,6 +678,7 @@
             "1": {
                 "score": 70.0,
                 "E_Value": 0.000705127,
+                "Bit_Score": 31.5722,
                 "Query Cover": 56.52173913043478,
                 "Perc_Identity": 25.64102564102564,
                 "Num_of_Identity": 30,
@@ -661,6 +698,7 @@
             "1": {
                 "score": 1101.0,
                 "E_Value": 2.59226e-158,
+                "Bit_Score": 428.713,
                 "Query Cover": 100.0,
                 "Perc_Identity": 100.0,
                 "Num_of_Identity": 206,
@@ -678,6 +716,7 @@
             "1": {
                 "score": 70.0,
                 "E_Value": 0.000673872,
+                "Bit_Score": 31.5722,
                 "Query Cover": 56.79611650485437,
                 "Perc_Identity": 25.64102564102564,
                 "Num_of_Identity": 30,
@@ -697,6 +736,7 @@
             "1": {
                 "score": 654.0,
                 "E_Value": 1.02544e-92,
+                "Bit_Score": 256.529,
                 "Query Cover": 100.0,
                 "Perc_Identity": 100.0,
                 "Num_of_Identity": 128,
@@ -716,6 +756,7 @@
             "1": {
                 "score": 330.0,
                 "E_Value": 3.67182e-45,
+                "Bit_Score": 131.724,
                 "Query Cover": 100.0,
                 "Perc_Identity": 100.0,
                 "Num_of_Identity": 68,
@@ -735,6 +776,7 @@
             "1": {
                 "score": 57.0,
                 "E_Value": 0.0157033,
+                "Bit_Score": 26.5646,
                 "Query Cover": 27.071823204419886,
                 "Perc_Identity": 32.6530612244898,
                 "Num_of_Identity": 16,
@@ -754,6 +796,7 @@
             "1": {
                 "score": 152.0,
                 "E_Value": 1.47145e-14,
+                "Bit_Score": 63.1586,
                 "Query Cover": 79.25311203319502,
                 "Perc_Identity": 26.17801047120419,
                 "Num_of_Identity": 50,
@@ -773,6 +816,7 @@
             "1": {
                 "score": 156.0,
                 "E_Value": 5.16058e-15,
+                "Bit_Score": 64.6994,
                 "Query Cover": 78.66108786610879,
                 "Perc_Identity": 26.063829787234045,
                 "Num_of_Identity": 49,
@@ -792,6 +836,7 @@
             "1": {
                 "score": 608.0,
                 "E_Value": 6.28509e-86,
+                "Bit_Score": 238.81,
                 "Query Cover": 92.74193548387096,
                 "Perc_Identity": 100.0,
                 "Num_of_Identity": 115,
@@ -811,6 +856,7 @@
             "1": {
                 "score": 647.0,
                 "E_Value": 1.23635e-91,
+                "Bit_Score": 253.832,
                 "Query Cover": 104.0,
                 "Perc_Identity": 96.15384615384616,
                 "Num_of_Identity": 125,
@@ -830,6 +876,7 @@
             "1": {
                 "score": 872.0,
                 "E_Value": 1.13681e-124,
+                "Bit_Score": 340.502,
                 "Query Cover": 100.0,
                 "Perc_Identity": 99.3975903614458,
                 "Num_of_Identity": 165,
@@ -847,6 +894,7 @@
             "1": {
                 "score": 868.0,
                 "E_Value": 4.74497e-124,
+                "Bit_Score": 338.961,
                 "Query Cover": 100.0,
                 "Perc_Identity": 98.79518072289156,
                 "Num_of_Identity": 164,
@@ -864,6 +912,7 @@
             "1": {
                 "score": 864.0,
                 "E_Value": 1.80264e-123,
+                "Bit_Score": 337.421,
                 "Query Cover": 99.3975903614458,
                 "Perc_Identity": 99.39393939393939,
                 "Num_of_Identity": 164,
@@ -881,6 +930,7 @@
             "1": {
                 "score": 848.0,
                 "E_Value": 4.44303e-121,
+                "Bit_Score": 331.257,
                 "Query Cover": 100.0,
                 "Perc_Identity": 98.19277108433735,
                 "Num_of_Identity": 163,
@@ -898,6 +948,7 @@
             "1": {
                 "score": 789.0,
                 "E_Value": 4.94583e-112,
+                "Bit_Score": 308.531,
                 "Query Cover": 100.0,
                 "Perc_Identity": 93.37349397590361,
                 "Num_of_Identity": 155,
@@ -915,6 +966,7 @@
             "1": {
                 "score": 782.0,
                 "E_Value": 1.08964e-110,
+                "Bit_Score": 305.834,
                 "Query Cover": 99.3975903614458,
                 "Perc_Identity": 93.33333333333333,
                 "Num_of_Identity": 154,
@@ -932,6 +984,7 @@
             "1": {
                 "score": 505.0,
                 "E_Value": 9.1292e-69,
+                "Bit_Score": 199.134,
                 "Query Cover": 100.60240963855422,
                 "Perc_Identity": 57.48502994011976,
                 "Num_of_Identity": 96,
@@ -949,6 +1002,7 @@
             "1": {
                 "score": 497.0,
                 "E_Value": 1.63977e-67,
+                "Bit_Score": 196.052,
                 "Query Cover": 99.3975903614458,
                 "Perc_Identity": 56.96969696969697,
                 "Num_of_Identity": 94,
@@ -966,6 +1020,7 @@
             "1": {
                 "score": 211.0,
                 "E_Value": 2.64616e-24,
+                "Bit_Score": 85.8853,
                 "Query Cover": 103.01204819277108,
                 "Perc_Identity": 32.748538011695906,
                 "Num_of_Identity": 56,
@@ -983,6 +1038,7 @@
             "1": {
                 "score": 99.0,
                 "E_Value": 3.86044e-08,
+                "Bit_Score": 42.743,
                 "Query Cover": 70.48192771084338,
                 "Perc_Identity": 27.350427350427353,
                 "Num_of_Identity": 32,
@@ -1000,6 +1056,7 @@
             "1": {
                 "score": 94.0,
                 "E_Value": 1.84633e-07,
+                "Bit_Score": 40.817,
                 "Query Cover": 69.87951807228916,
                 "Perc_Identity": 28.448275862068968,
                 "Num_of_Identity": 33,
@@ -1019,6 +1076,7 @@
             "1": {
                 "score": 114.0,
                 "E_Value": 1.13072e-09,
+                "Bit_Score": 48.521,
                 "Query Cover": 38.23529411764706,
                 "Perc_Identity": 31.868131868131865,
                 "Num_of_Identity": 29,
@@ -1034,6 +1092,7 @@
             "2": {
                 "score": 70.0,
                 "E_Value": 0.00053307,
+                "Bit_Score": 31.5722,
                 "Query Cover": 47.47899159663865,
                 "Perc_Identity": 25.663716814159294,
                 "Num_of_Identity": 29,
@@ -1053,6 +1112,7 @@
             "1": {
                 "score": 1387.0,
                 "E_Value": 0.0,
+                "Bit_Score": 538.88,
                 "Query Cover": 100.0,
                 "Perc_Identity": 100.0,
                 "Num_of_Identity": 262,
@@ -1070,6 +1130,7 @@
             "1": {
                 "score": 1366.0,
                 "E_Value": 0.0,
+                "Bit_Score": 530.791,
                 "Query Cover": 100.0,
                 "Perc_Identity": 99.23664122137404,
                 "Num_of_Identity": 260,
@@ -1087,6 +1148,7 @@
             "1": {
                 "score": 955.0,
                 "E_Value": 3.04463e-134,
+                "Bit_Score": 372.474,
                 "Query Cover": 100.0,
                 "Perc_Identity": 67.93893129770993,
                 "Num_of_Identity": 178,
@@ -1104,6 +1166,7 @@
             "1": {
                 "score": 952.0,
                 "E_Value": 9.30184e-134,
+                "Bit_Score": 371.318,
                 "Query Cover": 100.0,
                 "Perc_Identity": 67.55725190839695,
                 "Num_of_Identity": 177,
@@ -1121,6 +1184,7 @@
             "1": {
                 "score": 473.0,
                 "E_Value": 3.23547e-61,
+                "Bit_Score": 186.808,
                 "Query Cover": 96.18320610687023,
                 "Perc_Identity": 40.07936507936508,
                 "Num_of_Identity": 101,
@@ -1140,6 +1204,7 @@
             "1": {
                 "score": 870.0,
                 "E_Value": 1.65218e-124,
+                "Bit_Score": 339.732,
                 "Query Cover": 100.0,
                 "Perc_Identity": 100.0,
                 "Num_of_Identity": 165,
@@ -1157,6 +1222,7 @@
             "1": {
                 "score": 870.0,
                 "E_Value": 1.65218e-124,
+                "Bit_Score": 339.732,
                 "Query Cover": 100.0,
                 "Perc_Identity": 100.0,
                 "Num_of_Identity": 165,
@@ -1174,6 +1240,7 @@
             "1": {
                 "score": 870.0,
                 "E_Value": 1.65218e-124,
+                "Bit_Score": 339.732,
                 "Query Cover": 100.0,
                 "Perc_Identity": 100.0,
                 "Num_of_Identity": 165,
@@ -1193,6 +1260,7 @@
             "1": {
                 "score": 68.0,
                 "E_Value": 0.000282837,
+                "Bit_Score": 30.8018,
                 "Query Cover": 75.80645161290323,
                 "Perc_Identity": 27.659574468085108,
                 "Num_of_Identity": 26,
@@ -1210,6 +1278,7 @@
             "1": {
                 "score": 63.0,
                 "E_Value": 0.00149031,
+                "Bit_Score": 28.8758,
                 "Query Cover": 16.129032258064516,
                 "Perc_Identity": 55.00000000000001,
                 "Num_of_Identity": 11,
@@ -1229,6 +1298,7 @@
             "1": {
                 "score": 456.0,
                 "E_Value": 9.28294e-64,
+                "Bit_Score": 180.259,
                 "Query Cover": 100.0,
                 "Perc_Identity": 100.0,
                 "Num_of_Identity": 87,
@@ -1248,6 +1318,7 @@
             "1": {
                 "score": 886.0,
                 "E_Value": 7.45314e-127,
+                "Bit_Score": 345.895,
                 "Query Cover": 100.0,
                 "Perc_Identity": 100.0,
                 "Num_of_Identity": 167,
@@ -1265,6 +1336,7 @@
             "1": {
                 "score": 878.0,
                 "E_Value": 1.44e-125,
+                "Bit_Score": 342.813,
                 "Query Cover": 99.40119760479041,
                 "Perc_Identity": 99.3975903614458,
                 "Num_of_Identity": 165,
@@ -1282,6 +1354,7 @@
             "1": {
                 "score": 869.0,
                 "E_Value": 2.81284e-124,
+                "Bit_Score": 339.347,
                 "Query Cover": 98.80239520958084,
                 "Perc_Identity": 99.39393939393939,
                 "Num_of_Identity": 164,
@@ -1299,6 +1372,7 @@
             "1": {
                 "score": 853.0,
                 "E_Value": 7.24419e-122,
+                "Bit_Score": 333.183,
                 "Query Cover": 99.40119760479041,
                 "Perc_Identity": 98.19277108433735,
                 "Num_of_Identity": 163,
@@ -1316,6 +1390,7 @@
             "1": {
                 "score": 784.0,
                 "E_Value": 2.72985e-111,
+                "Bit_Score": 306.605,
                 "Query Cover": 99.40119760479041,
                 "Perc_Identity": 93.37349397590361,
                 "Num_of_Identity": 155,
@@ -1333,6 +1408,7 @@
             "1": {
                 "score": 782.0,
                 "E_Value": 1.11021e-110,
+                "Bit_Score": 305.834,
                 "Query Cover": 99.40119760479041,
                 "Perc_Identity": 93.37349397590361,
                 "Num_of_Identity": 155,
@@ -1350,6 +1426,7 @@
             "1": {
                 "score": 511.0,
                 "E_Value": 1.28101e-69,
+                "Bit_Score": 201.445,
                 "Query Cover": 98.80239520958084,
                 "Perc_Identity": 58.18181818181818,
                 "Num_of_Identity": 96,
@@ -1367,6 +1444,7 @@
             "1": {
                 "score": 510.0,
                 "E_Value": 1.39819e-69,
+                "Bit_Score": 201.06,
                 "Query Cover": 100.0,
                 "Perc_Identity": 57.48502994011976,
                 "Num_of_Identity": 96,
@@ -1384,6 +1462,7 @@
             "1": {
                 "score": 217.0,
                 "E_Value": 3.62103e-25,
+                "Bit_Score": 88.1965,
                 "Query Cover": 102.39520958083833,
                 "Perc_Identity": 32.748538011695906,
                 "Num_of_Identity": 56,
@@ -1401,6 +1480,7 @@
             "1": {
                 "score": 93.0,
                 "E_Value": 2.80902e-07,
+                "Bit_Score": 40.4318,
                 "Query Cover": 70.05988023952095,
                 "Perc_Identity": 26.495726495726498,
                 "Num_of_Identity": 31,
@@ -1418,6 +1498,7 @@
             "1": {
                 "score": 87.0,
                 "E_Value": 1.38047e-06,
+                "Bit_Score": 38.1206,
                 "Query Cover": 69.46107784431138,
                 "Perc_Identity": 27.586206896551722,
                 "Num_of_Identity": 32,
@@ -1437,6 +1518,7 @@
             "1": {
                 "score": 68.0,
                 "E_Value": 0.000282837,
+                "Bit_Score": 30.8018,
                 "Query Cover": 75.80645161290323,
                 "Perc_Identity": 27.659574468085108,
                 "Num_of_Identity": 26,
@@ -1454,6 +1536,7 @@
             "1": {
                 "score": 63.0,
                 "E_Value": 0.00149031,
+                "Bit_Score": 28.8758,
                 "Query Cover": 16.129032258064516,
                 "Perc_Identity": 55.00000000000001,
                 "Num_of_Identity": 11,
@@ -1473,6 +1556,7 @@
             "1": {
                 "score": 68.0,
                 "E_Value": 0.000282837,
+                "Bit_Score": 30.8018,
                 "Query Cover": 75.80645161290323,
                 "Perc_Identity": 27.659574468085108,
                 "Num_of_Identity": 26,
@@ -1490,6 +1574,7 @@
             "1": {
                 "score": 63.0,
                 "E_Value": 0.00149031,
+                "Bit_Score": 28.8758,
                 "Query Cover": 16.129032258064516,
                 "Perc_Identity": 55.00000000000001,
                 "Num_of_Identity": 11,
@@ -1509,6 +1594,7 @@
             "1": {
                 "score": 65.0,
                 "E_Value": 0.00227285,
+                "Bit_Score": 29.6462,
                 "Query Cover": 74.77064220183486,
                 "Perc_Identity": 25.766871165644172,
                 "Num_of_Identity": 42,
@@ -1528,6 +1614,7 @@
             "1": {
                 "score": 50.0,
                 "E_Value": 0.0115324,
+                "Bit_Score": 23.8682,
                 "Query Cover": 53.57142857142857,
                 "Perc_Identity": 33.33333333333333,
                 "Num_of_Identity": 10,
@@ -1547,6 +1634,7 @@
             "1": {
                 "score": 780.0,
                 "E_Value": 2.13951e-107,
+                "Bit_Score": 305.064,
                 "Query Cover": 100.0,
                 "Perc_Identity": 60.94890510948905,
                 "Num_of_Identity": 167,
@@ -1566,6 +1654,7 @@
             "1": {
                 "score": 50.0,
                 "E_Value": 0.00939825,
+                "Bit_Score": 23.8682,
                 "Query Cover": 58.82352941176471,
                 "Perc_Identity": 33.33333333333333,
                 "Num_of_Identity": 10,
@@ -1585,6 +1674,7 @@
             "1": {
                 "score": 1381.0,
                 "E_Value": 0.0,
+                "Bit_Score": 536.569,
                 "Query Cover": 99.61977186311786,
                 "Perc_Identity": 99.61832061068702,
                 "Num_of_Identity": 261,
@@ -1602,6 +1692,7 @@
             "1": {
                 "score": 1369.0,
                 "E_Value": 0.0,
+                "Bit_Score": 531.946,
                 "Query Cover": 100.0,
                 "Perc_Identity": 98.85931558935361,
                 "Num_of_Identity": 260,
@@ -1619,6 +1710,7 @@
             "1": {
                 "score": 974.0,
                 "E_Value": 4.43729e-137,
+                "Bit_Score": 379.793,
                 "Query Cover": 99.61977186311786,
                 "Perc_Identity": 69.08396946564885,
                 "Num_of_Identity": 181,
@@ -1636,6 +1728,7 @@
             "1": {
                 "score": 970.0,
                 "E_Value": 2.03321e-136,
+                "Bit_Score": 378.252,
                 "Query Cover": 99.61977186311786,
                 "Perc_Identity": 68.70229007633588,
                 "Num_of_Identity": 180,
@@ -1653,6 +1746,7 @@
             "1": {
                 "score": 480.0,
                 "E_Value": 3.15869e-62,
+                "Bit_Score": 189.504,
                 "Query Cover": 95.81749049429658,
                 "Perc_Identity": 39.682539682539684,
                 "Num_of_Identity": 100,
@@ -1672,6 +1766,7 @@
             "1": {
                 "score": 862.0,
                 "E_Value": 2.68373e-123,
+                "Bit_Score": 336.65,
                 "Query Cover": 100.0,
                 "Perc_Identity": 99.39393939393939,
                 "Num_of_Identity": 164,
@@ -1689,6 +1784,7 @@
             "1": {
                 "score": 862.0,
                 "E_Value": 2.68373e-123,
+                "Bit_Score": 336.65,
                 "Query Cover": 100.0,
                 "Perc_Identity": 99.39393939393939,
                 "Num_of_Identity": 164,
@@ -1706,6 +1802,7 @@
             "1": {
                 "score": 862.0,
                 "E_Value": 2.68373e-123,
+                "Bit_Score": 336.65,
                 "Query Cover": 100.0,
                 "Perc_Identity": 99.39393939393939,
                 "Num_of_Identity": 164,
@@ -1725,6 +1822,7 @@
             "1": {
                 "score": 114.0,
                 "E_Value": 1.13072e-09,
+                "Bit_Score": 48.521,
                 "Query Cover": 38.23529411764706,
                 "Perc_Identity": 31.868131868131865,
                 "Num_of_Identity": 29,
@@ -1740,6 +1838,7 @@
             "2": {
                 "score": 70.0,
                 "E_Value": 0.00053307,
+                "Bit_Score": 31.5722,
                 "Query Cover": 47.47899159663865,
                 "Perc_Identity": 25.663716814159294,
                 "Num_of_Identity": 29,
@@ -1759,6 +1858,7 @@
             "1": {
                 "score": 777.0,
                 "E_Value": 7.7998e-107,
+                "Bit_Score": 303.908,
                 "Query Cover": 100.0,
                 "Perc_Identity": 60.0,
                 "Num_of_Identity": 165,
@@ -1778,6 +1878,7 @@
             "1": {
                 "score": 46.0,
                 "E_Value": 0.0411798,
+                "Bit_Score": 22.3274,
                 "Query Cover": 54.90196078431373,
                 "Perc_Identity": 32.142857142857146,
                 "Num_of_Identity": 9,
@@ -1797,6 +1898,7 @@
             "1": {
                 "score": 46.0,
                 "E_Value": 0.0403514,
+                "Bit_Score": 22.3274,
                 "Query Cover": 54.90196078431373,
                 "Perc_Identity": 32.142857142857146,
                 "Num_of_Identity": 9,
@@ -1816,6 +1918,7 @@
             "1": {
                 "score": 45.0,
                 "E_Value": 0.0455833,
+                "Bit_Score": 21.9422,
                 "Query Cover": 54.90196078431373,
                 "Perc_Identity": 32.142857142857146,
                 "Num_of_Identity": 9,
@@ -1835,6 +1938,7 @@
             "1": {
                 "score": 46.0,
                 "E_Value": 0.0407635,
+                "Bit_Score": 22.3274,
                 "Query Cover": 54.90196078431373,
                 "Perc_Identity": 32.142857142857146,
                 "Num_of_Identity": 9,
@@ -1854,6 +1958,7 @@
             "1": {
                 "score": 46.0,
                 "E_Value": 0.0407635,
+                "Bit_Score": 22.3274,
                 "Query Cover": 54.90196078431373,
                 "Perc_Identity": 32.142857142857146,
                 "Num_of_Identity": 9,
@@ -1873,6 +1978,7 @@
             "1": {
                 "score": 46.0,
                 "E_Value": 0.0395396,
+                "Bit_Score": 22.3274,
                 "Query Cover": 54.90196078431373,
                 "Perc_Identity": 32.142857142857146,
                 "Num_of_Identity": 9,
@@ -1892,6 +1998,7 @@
             "1": {
                 "score": 86.0,
                 "E_Value": 5.76095e-06,
+                "Bit_Score": 37.7354,
                 "Query Cover": 58.744394618834086,
                 "Perc_Identity": 26.717557251908396,
                 "Num_of_Identity": 35,
@@ -1911,6 +2018,7 @@
             "1": {
                 "score": 775.0,
                 "E_Value": 2.07172e-106,
+                "Bit_Score": 303.138,
                 "Query Cover": 97.86476868327402,
                 "Perc_Identity": 60.0,
                 "Num_of_Identity": 165,
@@ -1930,6 +2038,7 @@
             "1": {
                 "score": 775.0,
                 "E_Value": 2.07172e-106,
+                "Bit_Score": 303.138,
                 "Query Cover": 97.86476868327402,
                 "Perc_Identity": 60.0,
                 "Num_of_Identity": 165,
@@ -1949,6 +2058,7 @@
             "1": {
                 "score": 775.0,
                 "E_Value": 2.07172e-106,
+                "Bit_Score": 303.138,
                 "Query Cover": 97.86476868327402,
                 "Perc_Identity": 60.0,
                 "Num_of_Identity": 165,
@@ -1968,6 +2078,7 @@
             "1": {
                 "score": 775.0,
                 "E_Value": 2.07172e-106,
+                "Bit_Score": 303.138,
                 "Query Cover": 97.86476868327402,
                 "Perc_Identity": 60.0,
                 "Num_of_Identity": 165,
@@ -1987,6 +2098,7 @@
             "1": {
                 "score": 775.0,
                 "E_Value": 2.07172e-106,
+                "Bit_Score": 303.138,
                 "Query Cover": 97.86476868327402,
                 "Perc_Identity": 60.0,
                 "Num_of_Identity": 165,
@@ -2006,6 +2118,7 @@
             "1": {
                 "score": 775.0,
                 "E_Value": 2.07172e-106,
+                "Bit_Score": 303.138,
                 "Query Cover": 97.86476868327402,
                 "Perc_Identity": 60.0,
                 "Num_of_Identity": 165,
@@ -2025,6 +2138,7 @@
             "1": {
                 "score": 775.0,
                 "E_Value": 2.07172e-106,
+                "Bit_Score": 303.138,
                 "Query Cover": 97.86476868327402,
                 "Perc_Identity": 60.0,
                 "Num_of_Identity": 165,
@@ -2044,6 +2158,7 @@
             "1": {
                 "score": 775.0,
                 "E_Value": 2.07172e-106,
+                "Bit_Score": 303.138,
                 "Query Cover": 97.86476868327402,
                 "Perc_Identity": 60.0,
                 "Num_of_Identity": 165,
@@ -2063,6 +2178,7 @@
             "1": {
                 "score": 775.0,
                 "E_Value": 2.07172e-106,
+                "Bit_Score": 303.138,
                 "Query Cover": 97.86476868327402,
                 "Perc_Identity": 60.0,
                 "Num_of_Identity": 165,
@@ -2082,6 +2198,7 @@
             "1": {
                 "score": 775.0,
                 "E_Value": 2.07172e-106,
+                "Bit_Score": 303.138,
                 "Query Cover": 97.86476868327402,
                 "Perc_Identity": 60.0,
                 "Num_of_Identity": 165,
@@ -2101,6 +2218,7 @@
             "1": {
                 "score": 775.0,
                 "E_Value": 2.07172e-106,
+                "Bit_Score": 303.138,
                 "Query Cover": 97.86476868327402,
                 "Perc_Identity": 60.0,
                 "Num_of_Identity": 165,
@@ -2120,6 +2238,7 @@
             "1": {
                 "score": 48.0,
                 "E_Value": 0.0357842,
+                "Bit_Score": 23.0978,
                 "Query Cover": 60.9375,
                 "Perc_Identity": 43.58974358974359,
                 "Num_of_Identity": 17,
@@ -2139,6 +2258,7 @@
             "1": {
                 "score": 777.0,
                 "E_Value": 7.7998e-107,
+                "Bit_Score": 303.908,
                 "Query Cover": 100.0,
                 "Perc_Identity": 60.0,
                 "Num_of_Identity": 165,
@@ -2158,6 +2278,7 @@
             "1": {
                 "score": 48.0,
                 "E_Value": 0.0332304,
+                "Bit_Score": 23.0978,
                 "Query Cover": 61.904761904761905,
                 "Perc_Identity": 43.58974358974359,
                 "Num_of_Identity": 17,
@@ -2177,6 +2298,7 @@
             "1": {
                 "score": 465.0,
                 "E_Value": 1.08311e-62,
+                "Bit_Score": 183.726,
                 "Query Cover": 95.29411764705881,
                 "Perc_Identity": 53.086419753086425,
                 "Num_of_Identity": 86,
@@ -2194,6 +2316,7 @@
             "1": {
                 "score": 463.0,
                 "E_Value": 2.06412e-62,
+                "Bit_Score": 182.956,
                 "Query Cover": 95.29411764705881,
                 "Perc_Identity": 52.46913580246913,
                 "Num_of_Identity": 85,
@@ -2211,6 +2334,7 @@
             "1": {
                 "score": 448.0,
                 "E_Value": 6.75916e-60,
+                "Bit_Score": 177.178,
                 "Query Cover": 90.0,
                 "Perc_Identity": 54.90196078431373,
                 "Num_of_Identity": 84,
@@ -2228,6 +2352,7 @@
             "1": {
                 "score": 444.0,
                 "E_Value": 1.53578e-59,
+                "Bit_Score": 175.637,
                 "Query Cover": 88.23529411764706,
                 "Perc_Identity": 55.333333333333336,
                 "Num_of_Identity": 83,
@@ -2245,6 +2370,7 @@
             "1": {
                 "score": 439.0,
                 "E_Value": 1.263e-58,
+                "Bit_Score": 173.711,
                 "Query Cover": 90.0,
                 "Perc_Identity": 54.248366013071895,
                 "Num_of_Identity": 83,
@@ -2262,6 +2388,7 @@
             "1": {
                 "score": 436.0,
                 "E_Value": 2.83781e-58,
+                "Bit_Score": 172.555,
                 "Query Cover": 88.23529411764706,
                 "Perc_Identity": 54.666666666666664,
                 "Num_of_Identity": 82,
@@ -2279,6 +2406,7 @@
             "1": {
                 "score": 436.0,
                 "E_Value": 3.31098e-58,
+                "Bit_Score": 172.555,
                 "Query Cover": 88.23529411764706,
                 "Perc_Identity": 54.666666666666664,
                 "Num_of_Identity": 82,
@@ -2296,6 +2424,7 @@
             "1": {
                 "score": 415.0,
                 "E_Value": 4.52037e-55,
+                "Bit_Score": 164.466,
                 "Query Cover": 88.23529411764706,
                 "Perc_Identity": 54.0,
                 "Num_of_Identity": 81,
@@ -2313,6 +2442,7 @@
             "1": {
                 "score": 213.0,
                 "E_Value": 1.72925e-24,
+                "Bit_Score": 86.6557,
                 "Query Cover": 98.82352941176471,
                 "Perc_Identity": 32.142857142857146,
                 "Num_of_Identity": 54,
@@ -2330,6 +2460,7 @@
             "1": {
                 "score": 122.0,
                 "E_Value": 2.26378e-11,
+                "Bit_Score": 51.6026,
                 "Query Cover": 68.82352941176471,
                 "Perc_Identity": 29.059829059829063,
                 "Num_of_Identity": 34,
@@ -2347,6 +2478,7 @@
             "1": {
                 "score": 112.0,
                 "E_Value": 6.23179e-10,
+                "Bit_Score": 47.7506,
                 "Query Cover": 92.94117647058823,
                 "Perc_Identity": 26.582278481012654,
                 "Num_of_Identity": 42,
@@ -2366,6 +2498,7 @@
             "1": {
                 "score": 84.0,
                 "E_Value": 9.71915e-06,
+                "Bit_Score": 36.965,
                 "Query Cover": 42.34234234234234,
                 "Perc_Identity": 29.78723404255319,
                 "Num_of_Identity": 28,
@@ -2385,6 +2518,7 @@
             "1": {
                 "score": 1385.0,
                 "E_Value": 0.0,
+                "Bit_Score": 538.11,
                 "Query Cover": 100.0,
                 "Perc_Identity": 100.0,
                 "Num_of_Identity": 265,
@@ -2402,6 +2536,7 @@
             "1": {
                 "score": 1382.0,
                 "E_Value": 0.0,
+                "Bit_Score": 536.954,
                 "Query Cover": 100.0,
                 "Perc_Identity": 99.62264150943396,
                 "Num_of_Identity": 264,
@@ -2419,6 +2554,7 @@
             "1": {
                 "score": 966.0,
                 "E_Value": 6.59619e-136,
+                "Bit_Score": 376.711,
                 "Query Cover": 98.86792452830188,
                 "Perc_Identity": 68.32061068702289,
                 "Num_of_Identity": 179,
@@ -2436,6 +2572,7 @@
             "1": {
                 "score": 952.0,
                 "E_Value": 9.40835e-134,
+                "Bit_Score": 371.318,
                 "Query Cover": 98.86792452830188,
                 "Perc_Identity": 67.55725190839695,
                 "Num_of_Identity": 177,
@@ -2453,6 +2590,7 @@
             "1": {
                 "score": 491.0,
                 "E_Value": 7.6265e-64,
+                "Bit_Score": 193.741,
                 "Query Cover": 91.32075471698113,
                 "Perc_Identity": 40.49586776859504,
                 "Num_of_Identity": 98,
@@ -2472,6 +2610,7 @@
             "1": {
                 "score": 870.0,
                 "E_Value": 1.65218e-124,
+                "Bit_Score": 339.732,
                 "Query Cover": 100.0,
                 "Perc_Identity": 100.0,
                 "Num_of_Identity": 165,
@@ -2489,6 +2628,7 @@
             "1": {
                 "score": 870.0,
                 "E_Value": 1.65218e-124,
+                "Bit_Score": 339.732,
                 "Query Cover": 100.0,
                 "Perc_Identity": 100.0,
                 "Num_of_Identity": 165,
@@ -2506,6 +2646,7 @@
             "1": {
                 "score": 870.0,
                 "E_Value": 1.65218e-124,
+                "Bit_Score": 339.732,
                 "Query Cover": 100.0,
                 "Perc_Identity": 100.0,
                 "Num_of_Identity": 165,
@@ -2525,6 +2666,7 @@
             "1": {
                 "score": 1382.0,
                 "E_Value": 0.0,
+                "Bit_Score": 536.954,
                 "Query Cover": 100.0,
                 "Perc_Identity": 99.62264150943396,
                 "Num_of_Identity": 264,
@@ -2542,6 +2684,7 @@
             "1": {
                 "score": 1380.0,
                 "E_Value": 0.0,
+                "Bit_Score": 536.184,
                 "Query Cover": 100.0,
                 "Perc_Identity": 99.62264150943396,
                 "Num_of_Identity": 264,
@@ -2559,6 +2702,7 @@
             "1": {
                 "score": 967.0,
                 "E_Value": 6.24474e-136,
+                "Bit_Score": 377.096,
                 "Query Cover": 98.86792452830188,
                 "Perc_Identity": 68.32061068702289,
                 "Num_of_Identity": 179,
@@ -2576,6 +2720,7 @@
             "1": {
                 "score": 952.0,
                 "E_Value": 1.06126e-133,
+                "Bit_Score": 371.318,
                 "Query Cover": 98.86792452830188,
                 "Perc_Identity": 67.55725190839695,
                 "Num_of_Identity": 177,
@@ -2593,6 +2738,7 @@
             "1": {
                 "score": 484.0,
                 "E_Value": 7.49609e-63,
+                "Bit_Score": 191.045,
                 "Query Cover": 91.32075471698113,
                 "Perc_Identity": 40.082644628099175,
                 "Num_of_Identity": 97,
@@ -2612,6 +2758,7 @@
             "1": {
                 "score": 854.0,
                 "E_Value": 4.77264e-122,
+                "Bit_Score": 333.569,
                 "Query Cover": 100.60975609756098,
                 "Perc_Identity": 99.39393939393939,
                 "Num_of_Identity": 164,
@@ -2629,6 +2776,7 @@
             "1": {
                 "score": 854.0,
                 "E_Value": 4.77264e-122,
+                "Bit_Score": 333.569,
                 "Query Cover": 100.60975609756098,
                 "Perc_Identity": 99.39393939393939,
                 "Num_of_Identity": 164,
@@ -2646,6 +2794,7 @@
             "1": {
                 "score": 854.0,
                 "E_Value": 4.77264e-122,
+                "Bit_Score": 333.569,
                 "Query Cover": 100.60975609756098,
                 "Perc_Identity": 99.39393939393939,
                 "Num_of_Identity": 164,
@@ -2665,6 +2814,7 @@
             "1": {
                 "score": 384.0,
                 "E_Value": 5.82646e-50,
+                "Bit_Score": 152.525,
                 "Query Cover": 95.74468085106383,
                 "Perc_Identity": 41.11111111111111,
                 "Num_of_Identity": 74,
@@ -2684,6 +2834,7 @@
             "1": {
                 "score": 134.0,
                 "E_Value": 1.17463e-13,
+                "Bit_Score": 56.225,
                 "Query Cover": 82.70676691729322,
                 "Perc_Identity": 35.45454545454545,
                 "Num_of_Identity": 39,
@@ -2703,6 +2854,7 @@
             "1": {
                 "score": 57.0,
                 "E_Value": 0.00826885,
+                "Bit_Score": 26.5646,
                 "Query Cover": 41.52542372881356,
                 "Perc_Identity": 30.612244897959183,
                 "Num_of_Identity": 15,
@@ -2720,6 +2872,7 @@
             "1": {
                 "score": 54.0,
                 "E_Value": 0.0175139,
+                "Bit_Score": 25.409,
                 "Query Cover": 46.61016949152542,
                 "Perc_Identity": 29.09090909090909,
                 "Num_of_Identity": 16,
@@ -2739,6 +2892,7 @@
             "1": {
                 "score": 68.0,
                 "E_Value": 0.000249345,
+                "Bit_Score": 30.8018,
                 "Query Cover": 78.99159663865547,
                 "Perc_Identity": 27.659574468085108,
                 "Num_of_Identity": 26,
@@ -2756,6 +2910,7 @@
             "1": {
                 "score": 63.0,
                 "E_Value": 0.00146864,
+                "Bit_Score": 28.8758,
                 "Query Cover": 16.80672268907563,
                 "Perc_Identity": 55.00000000000001,
                 "Num_of_Identity": 11,
@@ -2775,6 +2930,7 @@
             "1": {
                 "score": 46.0,
                 "E_Value": 0.0357183,
+                "Bit_Score": 22.3274,
                 "Query Cover": 54.90196078431373,
                 "Perc_Identity": 32.142857142857146,
                 "Num_of_Identity": 9,
@@ -2794,6 +2950,7 @@
             "1": {
                 "score": 46.0,
                 "E_Value": 0.0433258,
+                "Bit_Score": 22.3274,
                 "Query Cover": 54.90196078431373,
                 "Perc_Identity": 32.142857142857146,
                 "Num_of_Identity": 9,
@@ -2813,6 +2970,7 @@
             "1": {
                 "score": 46.0,
                 "E_Value": 0.0395396,
+                "Bit_Score": 22.3274,
                 "Query Cover": 54.90196078431373,
                 "Perc_Identity": 32.142857142857146,
                 "Num_of_Identity": 9,
@@ -2832,6 +2990,7 @@
             "1": {
                 "score": 46.0,
                 "E_Value": 0.0368243,
+                "Bit_Score": 22.3274,
                 "Query Cover": 54.90196078431373,
                 "Perc_Identity": 32.142857142857146,
                 "Num_of_Identity": 9,
@@ -2851,6 +3010,7 @@
             "1": {
                 "score": 45.0,
                 "E_Value": 0.0474734,
+                "Bit_Score": 21.9422,
                 "Query Cover": 54.90196078431373,
                 "Perc_Identity": 32.142857142857146,
                 "Num_of_Identity": 9,
@@ -2870,6 +3030,7 @@
             "1": {
                 "score": 46.0,
                 "E_Value": 0.0403514,
+                "Bit_Score": 22.3274,
                 "Query Cover": 54.90196078431373,
                 "Perc_Identity": 32.142857142857146,
                 "Num_of_Identity": 9,
@@ -2889,6 +3050,7 @@
             "1": {
                 "score": 777.0,
                 "E_Value": 7.7998e-107,
+                "Bit_Score": 303.908,
                 "Query Cover": 100.0,
                 "Perc_Identity": 60.0,
                 "Num_of_Identity": 165,
@@ -2908,6 +3070,7 @@
             "1": {
                 "score": 276.0,
                 "E_Value": 1.81066e-36,
+                "Bit_Score": 110.923,
                 "Query Cover": 100.0,
                 "Perc_Identity": 63.74999999999999,
                 "Num_of_Identity": 51,
@@ -2927,6 +3090,7 @@
             "1": {
                 "score": 557.0,
                 "E_Value": 5.38027e-78,
+                "Bit_Score": 219.164,
                 "Query Cover": 88.05970149253731,
                 "Perc_Identity": 94.0677966101695,
                 "Num_of_Identity": 111,
@@ -2946,6 +3110,7 @@
             "1": {
                 "score": 288.0,
                 "E_Value": 3.76154e-38,
+                "Bit_Score": 115.546,
                 "Query Cover": 91.11111111111111,
                 "Perc_Identity": 64.63414634146342,
                 "Num_of_Identity": 53,
@@ -2965,6 +3130,7 @@
             "1": {
                 "score": 559.0,
                 "E_Value": 2.40511e-78,
+                "Bit_Score": 219.935,
                 "Query Cover": 89.39393939393939,
                 "Perc_Identity": 94.0677966101695,
                 "Num_of_Identity": 111,
@@ -2984,6 +3150,7 @@
             "1": {
                 "score": 282.0,
                 "E_Value": 1.92755e-37,
+                "Bit_Score": 113.235,
                 "Query Cover": 96.42857142857143,
                 "Perc_Identity": 64.19753086419753,
                 "Num_of_Identity": 52,
@@ -3003,6 +3170,7 @@
             "1": {
                 "score": 556.0,
                 "E_Value": 6.41284e-78,
+                "Bit_Score": 218.779,
                 "Query Cover": 88.05970149253731,
                 "Perc_Identity": 94.0677966101695,
                 "Num_of_Identity": 111,
@@ -3022,6 +3190,7 @@
             "1": {
                 "score": 429.0,
                 "E_Value": 8.93582e-60,
+                "Bit_Score": 169.859,
                 "Query Cover": 100.0,
                 "Perc_Identity": 100.0,
                 "Num_of_Identity": 82,
@@ -3041,6 +3210,7 @@
             "1": {
                 "score": 589.0,
                 "E_Value": 3.19639e-83,
+                "Bit_Score": 231.491,
                 "Query Cover": 100.0,
                 "Perc_Identity": 100.0,
                 "Num_of_Identity": 113,
@@ -3060,6 +3230,7 @@
             "1": {
                 "score": 86.0,
                 "E_Value": 5.76095e-06,
+                "Bit_Score": 37.7354,
                 "Query Cover": 58.744394618834086,
                 "Perc_Identity": 26.717557251908396,
                 "Num_of_Identity": 35,
@@ -3079,6 +3250,7 @@
             "1": {
                 "score": 86.0,
                 "E_Value": 5.76095e-06,
+                "Bit_Score": 37.7354,
                 "Query Cover": 58.744394618834086,
                 "Perc_Identity": 26.717557251908396,
                 "Num_of_Identity": 35,
@@ -3098,6 +3270,7 @@
             "1": {
                 "score": 86.0,
                 "E_Value": 5.76095e-06,
+                "Bit_Score": 37.7354,
                 "Query Cover": 58.744394618834086,
                 "Perc_Identity": 26.717557251908396,
                 "Num_of_Identity": 35,
@@ -3117,6 +3290,7 @@
             "1": {
                 "score": 86.0,
                 "E_Value": 5.76095e-06,
+                "Bit_Score": 37.7354,
                 "Query Cover": 58.744394618834086,
                 "Perc_Identity": 26.717557251908396,
                 "Num_of_Identity": 35,
@@ -3136,6 +3310,7 @@
             "1": {
                 "score": 84.0,
                 "E_Value": 9.36997e-06,
+                "Bit_Score": 36.965,
                 "Query Cover": 42.53393665158371,
                 "Perc_Identity": 29.78723404255319,
                 "Num_of_Identity": 28,
@@ -3155,6 +3330,7 @@
             "1": {
                 "score": 86.0,
                 "E_Value": 5.76095e-06,
+                "Bit_Score": 37.7354,
                 "Query Cover": 58.744394618834086,
                 "Perc_Identity": 26.717557251908396,
                 "Num_of_Identity": 35,
@@ -3174,6 +3350,7 @@
             "1": {
                 "score": 86.0,
                 "E_Value": 5.76095e-06,
+                "Bit_Score": 37.7354,
                 "Query Cover": 58.744394618834086,
                 "Perc_Identity": 26.717557251908396,
                 "Num_of_Identity": 35,
@@ -3193,6 +3370,7 @@
             "1": {
                 "score": 86.0,
                 "E_Value": 5.76095e-06,
+                "Bit_Score": 37.7354,
                 "Query Cover": 58.744394618834086,
                 "Perc_Identity": 26.717557251908396,
                 "Num_of_Identity": 35,
@@ -3212,6 +3390,7 @@
             "1": {
                 "score": 84.0,
                 "E_Value": 9.71915e-06,
+                "Bit_Score": 36.965,
                 "Query Cover": 42.34234234234234,
                 "Perc_Identity": 29.78723404255319,
                 "Num_of_Identity": 28,
@@ -3231,6 +3410,7 @@
             "1": {
                 "score": 50.0,
                 "E_Value": 0.00991548,
+                "Bit_Score": 23.8682,
                 "Query Cover": 60.0,
                 "Perc_Identity": 33.33333333333333,
                 "Num_of_Identity": 10,

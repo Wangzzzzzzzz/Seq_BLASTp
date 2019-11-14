@@ -4,6 +4,7 @@
             "1": {
                 "score": 31.0,
                 "E_Value": 0.0297428,
+                "Bit_Score": 16.5494,
                 "Query Cover": 5.729166666666666,
                 "Perc_Identity": 63.63636363636363,
                 "Num_of_Identity": 7,

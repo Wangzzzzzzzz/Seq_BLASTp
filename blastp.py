@@ -82,6 +82,7 @@ def output_json(blast_res, output_name):
                 hsp_discriptor = {
                     "score": hsp.score,
                     "E_Value": hsp.expect,
+                    "Bit_Score": hsp.bits,
                     "Query Cover": hsp.align_length/query_seq.query_length*100,
                     "Perc_Identity": hsp.identities/hsp.align_length*100,
                     "Num_of_Identity": hsp.identities,

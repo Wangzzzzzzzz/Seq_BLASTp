@@ -4,6 +4,7 @@
             "1": {
                 "score": 677.0,
                 "E_Value": 4.12693e-98,
+                "Bit_Score": 265.388,
                 "Query Cover": 100.0,
                 "Perc_Identity": 100.0,
                 "Num_of_Identity": 129,
@@ -23,6 +24,7 @@
             "1": {
                 "score": 1009.0,
                 "E_Value": 7.27189e-147,
+                "Bit_Score": 393.275,
                 "Query Cover": 100.0,
                 "Perc_Identity": 100.0,
                 "Num_of_Identity": 188,
@@ -42,6 +44,7 @@
             "1": {
                 "score": 45.0,
                 "E_Value": 0.00622208,
+                "Bit_Score": 21.9422,
                 "Query Cover": 23.03030303030303,
                 "Perc_Identity": 28.947368421052634,
                 "Num_of_Identity": 11,
@@ -61,6 +64,7 @@
             "1": {
                 "score": 41.0,
                 "E_Value": 0.00817107,
+                "Bit_Score": 20.4014,
                 "Query Cover": 20.689655172413794,
                 "Perc_Identity": 50.0,
                 "Num_of_Identity": 9,
@@ -80,6 +84,7 @@
             "1": {
                 "score": 45.0,
                 "E_Value": 0.00657511,
+                "Bit_Score": 21.9422,
                 "Query Cover": 23.03030303030303,
                 "Perc_Identity": 28.947368421052634,
                 "Num_of_Identity": 11,
@@ -99,6 +104,7 @@
             "1": {
                 "score": 45.0,
                 "E_Value": 0.00622208,
+                "Bit_Score": 21.9422,
                 "Query Cover": 23.03030303030303,
                 "Perc_Identity": 28.947368421052634,
                 "Num_of_Identity": 11,
@@ -118,6 +124,7 @@
             "1": {
                 "score": 45.0,
                 "E_Value": 0.00651766,
+                "Bit_Score": 21.9422,
                 "Query Cover": 23.170731707317074,
                 "Perc_Identity": 28.947368421052634,
                 "Num_of_Identity": 11,
@@ -137,6 +144,7 @@
             "1": {
                 "score": 46.0,
                 "E_Value": 0.00783014,
+                "Bit_Score": 22.3274,
                 "Query Cover": 17.012448132780083,
                 "Perc_Identity": 34.146341463414636,
                 "Num_of_Identity": 14,
