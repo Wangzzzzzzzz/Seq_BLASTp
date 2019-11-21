@@ -1,6 +1,6 @@
 # BLAST of SKEMPI_v1, SKEMPI_v2, NM, MDM2-p53
 
-Already finished __SKEMPI_v1 vs. SKEMPI_v1__; __SKEMPI_v2 vs SKEMPI_v2__, __SKEMPI_v1 vs. SKEMPI_v2__, __SKEMPI_v1 vs. NM__. Not yet done is MDM2-p53.
+All dataset finished
 
 ## Update Log
 
